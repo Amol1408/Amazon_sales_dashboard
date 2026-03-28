@@ -15,6 +15,14 @@ This project is an end-to-end data analytics solution built using SQL and Power 
 - Highlighted high return-risk products
 - Evaluated delivery performance (On-time vs Late)
 
+  ## 📊 Dashboard Preview
+
+### Overview Dashboard
+![Dashboard 1](dashboard_page1.png)
+
+### Operations Dashboard
+![Dashboard 2](dashboard_page2.png)
+
 
 ## 🚀 Key Features
 - KPI Tracking (Revenue, Orders, Customers, AOV)
